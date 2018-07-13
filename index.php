@@ -2,14 +2,9 @@
 <html lang="pt-br">
     <head>
         <meta charset="UTF-8">
-        <title>PHP - </title>
+        <title>Arquivo HTML</title>
     </head>
     <body>
-        <h1></h1><hr>
-        <?php
-        require('./inc/Config.inc.php');
-
-        // código do corpo do site
-        ?>
+        <h1>Arquivo Modificado</h1><hr>
     </body>
 </html>
